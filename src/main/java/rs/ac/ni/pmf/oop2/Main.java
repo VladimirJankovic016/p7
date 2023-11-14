@@ -14,7 +14,7 @@ public class Main {
         }
         ExpressionSquareSum ess = new ExpressionSquareSum();
         final ExpressionCalculator otherCalc =
-                new ExpressionCalculator(10,10,ess);
+                new ExpressionCalculator(15,10,ess);
 
 
         final ExpressionCalculator otherCalc2 =
